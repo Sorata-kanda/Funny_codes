@@ -2,7 +2,7 @@
 
 # 🎉 Discord Welcome Assistant
 
-<img src="anime_favicon.jpeg" alt="Discord Welcome Assistant" width="150" height="150" style="border-radius: 20px;">
+<img src="/discord bot/discord-welcome-app/anime_favicon.jpeg" alt="Discord Welcome Assistant" width="150" height="150" style="border-radius: 20px;">
 
 ### ⚡ Automate Your Discord Welcomes with OCR Magic ⚡
 
