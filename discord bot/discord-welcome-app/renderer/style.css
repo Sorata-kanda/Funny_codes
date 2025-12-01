@@ -1,0 +1,50 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #1e1e1e;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.avatar {
+    width: 160px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border: 3px solid #ff7cdf;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 10px;
+    background: #ff7cdf;
+    color: #1e1e1e;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #ff9fea;
+}
+
+#user-list {
+    margin-top: 20px;
+    padding: 15px;
+    background: #2e2e2e;
+    border-radius: 10px;
+    min-height: 100px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.username-item {
+    padding: 8px;
+    margin: 5px 0;
+    background: #3e3e3e;
+    border-radius: 5px;
+    border-left: 3px solid #ff7cdf;
+}

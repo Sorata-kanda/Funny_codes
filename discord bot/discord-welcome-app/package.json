@@ -1,0 +1,22 @@
+{
+    "name": "discord-welcome-app",
+    "version": "1.0.0",
+    "description": "Discord Welcome Assistant with Python OCR backend",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build": "electron-builder"
+    },
+    "build": {
+        "appId": "com.yourname.discordwelcomebot",
+        "productName": "Discord Welcome Assistant",
+        "win": {
+            "icon": "icon.ico",
+            "target": "nsis"
+        }
+    },
+    "devDependencies": {
+        "electron": "^26.2.0",
+        "electron-builder": "^26.0.12"
+    }
+}
